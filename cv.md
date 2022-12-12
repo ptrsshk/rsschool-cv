@@ -36,4 +36,4 @@ Major: Engineering-Psychological Maintenance of Information Technologies.
 
 ### english:
 
-GOOD.
+Good out of school level, freely speaking online and offline.
