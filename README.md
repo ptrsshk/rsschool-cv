@@ -1,1 +1,1 @@
-https://ptrshk.github.io/rsschool-cv/
+https://ptrshk.github.io/rsschool-cv/cv
