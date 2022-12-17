@@ -1,4 +1,4 @@
-# **Trusko Rostislav**
+# **Trushko Rostislav**
 
 ### contacts:
 
