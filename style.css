@@ -72,9 +72,6 @@ html {
     color: whitesmoke;
     padding: 100px 0px 100px 100px;
     width: 600px;
-
-    /*border: solid 1px red;*/
-    
 }
 
 .contact-list {
@@ -90,7 +87,6 @@ html {
 
 .section {
     margin-left: 60px;
-    /* border: 1px solid azure; */
 }
 
 .avatar {
@@ -106,9 +102,7 @@ html {
 }
 
 .summary-header {
-    /* float: left; */
     width: 20%;
-    /* border: 1px solid white; */
     margin: 0px 20px 0px 60px;
     padding-top: 28px;
     font-size: 30px;
@@ -118,7 +112,6 @@ html {
 
 .summary-list {
     width: 65%;
-    /* border: 1px solid red; */
     padding: 0px;
     margin-right: 50px;
 }
