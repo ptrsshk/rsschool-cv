@@ -73,4 +73,4 @@ Good "out of school" english level, freely speaking online and offline. (result 
 
 ![image](https://user-images.githubusercontent.com/119881112/223148333-dc3af4b3-bfbf-4f08-8ead-03aeef9c6ff8.png) 
 
-native Russian and belorussian speaker.
+Native Russian and belarussian speaker.
