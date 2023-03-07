@@ -1,5 +1,9 @@
 # **Trushko Rostislav**
 
+
+![аватар steam](https://user-images.githubusercontent.com/119881112/223492363-02204e9f-b226-4750-ade1-3beeb679250b.jpg)
+
+
 ### contacts:
 
 + *phone number* - +375259255340
