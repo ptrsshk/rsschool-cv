@@ -1,3 +1,3 @@
-https://ptrshk.github.io/rsschool-cv/cv
+**[My CV in MD format](https://ptrsshk.github.io/rsschool-cv/cv)**
 
-https://ptrshk.github.io/rsschool-cv/
+**[My CV in HTML format](https://ptrsshk.github.io/rsschool-cv/)**
